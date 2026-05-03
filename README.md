@@ -70,23 +70,3 @@ MedVision/
 ├── script.js
 └── style.css
 ```
-
----
-
-## Setup (Local)
-
-1. Clone the repository
-   ```bash
-   git clone https://github.com/Abdulkarim-Mohammed/MedVision.git
-   ```
-
-2. Move the project folder to your XAMPP `htdocs` directory
-
-3. Import the database using phpMyAdmin
-
-4. Update the database connection settings in the config file
-
-5. Start Apache and MySQL from XAMPP, then open:
-   ```
-   http://localhost/MedVision
-   ```
