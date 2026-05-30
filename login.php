@@ -4,7 +4,7 @@ $error_maseg = "";
 
 if (isset($_POST['username'])) {
 
-$conn = new PDO("mysql:host=localhost;port=3307;dbname=medvision", "root", "");
+$conn = new PDO("mysql:host=localhost;port=3308;dbname=medvision", "root", "");
 
 $u = $_POST['username'];
 $p = $_POST['password'];
